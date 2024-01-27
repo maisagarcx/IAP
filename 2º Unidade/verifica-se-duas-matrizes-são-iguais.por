@@ -35,18 +35,18 @@ programa
 		escreva("\n\n")
 		se (saoIguais)
 		{
-			escreva("São iguais")
+			escreva("SÃ£o iguais")
 		}
 		senao
 		{
-			escreva("Não são iguais")
+			escreva("NÃ£o sÃ£o iguais")
 		}
 		}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 337; 
  * @PONTOS-DE-PARADA = ;
