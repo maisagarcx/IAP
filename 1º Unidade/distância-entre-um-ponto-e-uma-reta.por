@@ -33,14 +33,3 @@ programa
 		escreva("A distância do ponto (P), até a reta (s) inserida é: ", valorFinal, ".")
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 751; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {x, 7, 7, 1}-{y, 7, 10, 1}-{a, 7, 13, 1}-{b, 7, 16, 1}-{c, 7, 19, 1}-{numerador, 8, 7, 9}-{denominador, 8, 18, 11}-{entreModulo, 8, 31, 11}-{entreRaiz, 8, 44, 9}-{distanciaPS, 8, 55, 11}-{valorFinal, 8, 68, 10};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
