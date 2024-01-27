@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica --> Mt
+	
+inclua biblioteca Matematica --> Mt
 	funcao inicio()
 	{
 		//variaveis
@@ -20,7 +21,7 @@ programa
 		}
 
 		//saida de pi
-		escreva("O valor de pi é: ", Mt.arredondar(pi, 2))
+		escreva("O valor de pi Ã©: ", Mt.arredondar(pi, 2))
 
 		//processamento da precisao (modulo da diferenca entre as duas primeiras iteracoes)
 		k = 1.0
@@ -42,8 +43,8 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 339; 
  * @PONTOS-DE-PARADA = ;
