@@ -12,13 +12,13 @@ programa
 			somatorio+= x*x
 			contagem++
 		}
-		escreva("A soma de x1² + x2² + x3² = ", somatorio)
+		escreva("A soma de x1Â² + x2Â² + x3Â² = ", somatorio)
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 208; 
  * @PONTOS-DE-PARADA = ;
