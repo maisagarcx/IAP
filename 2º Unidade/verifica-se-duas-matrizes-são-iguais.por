@@ -41,5 +41,5 @@ programa
 		{
 			escreva("Não são iguais")
 		}
-		}
+	}
 }
