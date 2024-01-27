@@ -24,19 +24,8 @@ programa
 			verificadordereq = linha > LINHAS ou coluna > COLUNAS ou linha <= 0 ou coluna <= 0
 		}enquanto(verificadordereq)
 
-		escreva("Você deseja alterar maisa[", linha, "][", coluna, "] = ")
+		escreva("VocÃª deseja alterar maisa[", linha, "][", coluna, "] = ")
 		leia(maisa[linha][coluna])
 		escreva("maisa[", linha, "][", coluna, "] = ", maisa[linha][coluna])
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 332; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {maisa, 7, 7, 5};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
