@@ -10,26 +10,26 @@ programa
 		escreva("Entre com a valor do intervalo, do menor para o maior:\n")
 		leia(b)
 		leia(c)
-		escreva("Entre com o valor da variável que será analisada: ")
+		escreva("Entre com o valor da variÃ¡vel que serÃ¡ analisada: ")
 		leia(a)
 
 		//processamento e saida
 		aEstaEntreBC = (a>=b) e (a<=c)
 		se (aEstaEntreBC)
 		{
-			escreva("A variável está entre o intervalo.")
+			escreva("A variÃ¡vel estÃ¡ entre o intervalo.")
 		}
 		senao 
 		{
-			escreva("A variável não está entre o intervalo.")
+			escreva("A variÃ¡vel nÃ£o estÃ¡ entre o intervalo.")
 		}
 		
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 258; 
  * @PONTOS-DE-PARADA = ;
